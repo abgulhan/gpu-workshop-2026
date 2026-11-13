@@ -1,0 +1,23 @@
+# built programs and outputs
+src/01_hello
+src/02_vector_add
+src/02_vector_add_exercise
+src/03_bug1_silent
+src/03_bug2_bounds
+src/03_bug3_race
+src/03_bug4_inf
+src/04_blur_cpu
+src/04_blur_v1
+src/04_blur_v2
+src/04_image_filters
+src/05_matmul
+solutions/02_vector_add_exercise
+solutions/03_bug1_silent
+solutions/03_bug2_bounds
+solutions/03_bug3_race
+solutions/03_bug4_inf
+*.o
+src/*.png
+*.nsys-rep
+*.sqlite
+__pycache__/
